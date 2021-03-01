@@ -5,3 +5,4 @@ Modifications are to be made like deleting, adding and other works.
 This is to understand the commands pertaining to this software.
 
 this is to check if changes are made to the local rep after fetch
+i have some error in pull command
