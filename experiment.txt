@@ -1,0 +1,5 @@
+certain experiments are being done here over the course of time.
+Modifications are to be made like deleting, adding and other works.
+
+
+This is to understand the commands pertaining to this software.
